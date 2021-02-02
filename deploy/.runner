@@ -1,9 +1,0 @@
-﻿{
-  "agentId": 2,
-  "agentName": "pedro-PC",
-  "poolId": 1,
-  "poolName": "Default",
-  "serverUrl": "https://pipelines.actions.githubusercontent.com/siI0BH1fO6YvbUsoa2AdRB97riB63y3RSQEcg3uAX8HoDESASM",
-  "gitHubUrl": "https://github.com/PedroPCardoso/teste-Actions",
-  "workFolder": "_work"
-}
