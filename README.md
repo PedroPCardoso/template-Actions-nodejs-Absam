@@ -8,6 +8,8 @@ http://absam.io/
 
 ## Usage
 
+https://ppcardoso.medium.com/como-integrar-absam-com-github-actions-49138e06eb00
+
 
 ## Contributing
 Pull requests são bens vindos.
